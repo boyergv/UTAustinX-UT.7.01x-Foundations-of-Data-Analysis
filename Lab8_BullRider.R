@@ -50,13 +50,14 @@ t.test(bull$RidePer,mu=0.5)
 # Less than 50% of the time
 
 #####################################
-Write Your Conclusion
+# Write Your Conclusion
+# 
+# Answer the question and support your answer with statistics:
+#         The distribution of the percentage of time a professional bull rider stays on
+# the bull for this sample is approximately normal, with a mean of 37.48%, and a 
+# standard deviation of 12.15%. We found that their mean ride percentage is significantly 
+# different from 50%, with t= -6.354, p<0.05. We are 95% confident that the true mean of
+# ride percentage of professional bull riders is between 33.48% and 41.47% suggesting that
+# professional bull riders ride the full 8 seconds less than half of the times they buck 
+# out.
 
-Answer the question and support your answer with statistics:
-        The distribution of the percentage of time a professional bull rider stays on
-the bull for this sample is approximately normal, with a mean of 37.48%, and a 
-standard deviation of 12.15%. We found that their mean ride percentage is significantly 
-different from 50%, with t= -6.354, p<0.05. We are 95% confident that the true mean of
-ride percentage of professional bull riders is between 33.48% and 41.47% suggesting that
-professional bull riders ride the full 8 seconds less than half of the times they buck 
-out.
