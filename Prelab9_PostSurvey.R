@@ -15,7 +15,7 @@ post %>%
         select(classification,gender) %>%
                 filter(gender=='Male') %>%
                         slice(1:1)
-1c. Of the first 10 students in the dataset, what percentage live on campus? (Report without the "%" sign.)
+# 1c. Of the first 10 students in the dataset, what percentage live on campus? (Report without the "%" sign.)
 post %>%
         slice(1:10) %>%
                 filter(live_campus=='yes') %>%
