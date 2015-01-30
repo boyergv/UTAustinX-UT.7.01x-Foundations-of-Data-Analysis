@@ -32,7 +32,7 @@ t.test(nursing$hour_diff,biology$hour_diff)
 30.89
 # 1e. What is the p-value for this test? (Round to 2 decimal places.)
 0.54
-# 1f. Which of the following is an appropriate conclusion for this analysis (assuming ƒ¿ = .05)?
+# 1f. Which of the following is an appropriate conclusion for this analysis (assuming Æ’Â¿ = .05)?
 # We fail to reject the null hypothesis; the increase in study time is the same for biology and nursing majors.
 
 ####################################
@@ -50,7 +50,7 @@ t.test(nursing$hour_diff,biology$hour_diff)
 #   Mu of smokers > Mu of none-smokers
 # 2c. How many degrees of freedom should we use for this test if we are to estimate rather than use a calculator?
 # 25
-# 2d. What is t-critical, assuming ƒ¿=0.05? (Round to 3 decimal places.) Use your answer to 2c. to help.
+# 2d. What is t-critical, assuming Æ’Â¿=0.05? (Round to 3 decimal places.) Use your answer to 2c. to help.
 # 1.708
 # 2e. Calculate the standard error. (Round to 2 decimal places.)
 # 1.44
@@ -101,5 +101,5 @@ t.test(dat$CP.on.Left.Side, dat$CP.on.Right.Side )
 # Yes
 # 3i. The researchers finish their analysis by calculating a 95% confidence interval for the true increase in CP 
 # levels in rejuvenating nerve cells. What are the lower and upper bounds? (Round each to 1 decimal place.)
-Lower bound: 1.5
-Upper bound: 4.7
+# Lower bound: 1.5
+# Upper bound: 4.7
