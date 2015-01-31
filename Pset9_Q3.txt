@@ -1,0 +1,22 @@
+ID,Gender,"Dominant Hand"
+1,M,L
+2,M,R
+3,F,R
+4,M,R
+5,F,R
+6,F,L
+7,F,L
+8,M,R
+9,F,R
+10,F,R
+11,M,L
+12,F,R
+13,M,R
+14,M,R
+15,F,R
+16,M,R
+17,M,R
+18,F,R
+19,F,L
+20,M,R
+21,F,R
